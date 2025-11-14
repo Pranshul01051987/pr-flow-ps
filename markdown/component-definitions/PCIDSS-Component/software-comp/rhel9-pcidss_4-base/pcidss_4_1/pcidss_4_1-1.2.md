@@ -14,6 +14,10 @@ x-trestle-global:
 
 ## Control Statement
 
+Roles and responsibilities for performing activities defined in Requirement 1 are formally documented, assigned to appropriate personnel or teams, and communicated to ensure they are clearly understood and effectively executed.
+
+The organization maintains documented roles and responsibilities for all activities related to network security controls as outlined in PCI DSS Requirement 1. These roles are assigned to designated personnel or functions (e.g., network administrators, security engineers, compliance managers), communicated through internal documentation or governance processes, and periodically reviewed to ensure understanding and accountability.
+
 ______________________________________________________________________
 
 ## What is the solution and how is it implemented?
